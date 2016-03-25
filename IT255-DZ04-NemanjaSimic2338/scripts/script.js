@@ -1,0 +1,1 @@
+alert("Ovo je java skript poruka");
